@@ -1,8 +1,7 @@
 ## Progetto :
-Creare una repository di documentazione facilmente navigabile
+Documentazioen facile e veloce, reperire la documentazione generata da gruppi di progetto e dall' istituto G. Marconi tramite un' applicazione web(ReadTheDocs)
 ## Scopo:
-Creare uno spazio in cui sia facile reperire la documentazione generata dai gruppi di lavoro sopra citati e quindi rendere più semplice il lavoro delle classi che seguiranno i progetti negli anni sucessivi.
-
+Creare uno spazio in cui sia facile reperire la documentazione in modo semplice e ordinato
 ## Strumenti :
 GitHub
 
