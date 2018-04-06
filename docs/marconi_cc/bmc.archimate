@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="BMC_MarconiCC" id="c7cbdddd-619b-43a6-8051-f664c4621030" version="4.0.0">
+  <folder name="Strategy" id="aad40513-5326-4e82-a565-5a71fe476a82" type="strategy">
+    <element xsi:type="archimate:Capability" name="Capability" id="20e380f1-775d-4aff-ad6e-f9ec1e9a3c8c"/>
+  </folder>
+  <folder name="Business" id="9f9c7787-0a71-4163-a449-d38caf00e59c" type="business"/>
+  <folder name="Application" id="e8c099e6-f437-4137-b44e-39fb6f594445" type="application"/>
+  <folder name="Technology &amp; Physical" id="dbe351d4-db90-479a-8e69-8cd200220bd2" type="technology"/>
+  <folder name="Motivation" id="5d06796b-8d4a-4128-82cc-3b4201663faf" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="34833551-7204-4869-bcdd-81a3f056f50c" type="implementation_migration"/>
+  <folder name="Other" id="08ba9b25-251d-49b0-aab7-d209a176d0e3" type="other">
+    <element xsi:type="archimate:Location" id="62556ebf-d1f0-48c5-98a0-7b5bc5e4ffa4"/>
+  </folder>
+  <folder name="Relations" id="9bed74a5-d954-4ac8-938d-612697e189ae" type="relations"/>
+  <folder name="Views" id="8fa72ea8-4a3b-4804-ae23-77798e5c11ce" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="76aaca9c-3fae-409f-89f4-630055fa41c2">
+      <child xsi:type="archimate:Group" id="b060f99e-aaa1-4ade-aed2-f99cf5d7a120" name="Key Partnerships" font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#f9999b">
+        <bounds x="96" y="84" width="253" height="361"/>
+        <child xsi:type="archimate:Note" id="61b02ffc-ebd0-4a60-9d91-d96e31c96bbc" font="1|Segoe UI|14.25|2|WINDOWS|1|-19|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#f9999b" borderType="2">
+          <bounds x="12" y="96" width="241" height="181"/>
+          <content>- Sviluppatori&#xD;
+- Manutentori&#xD;
+- Dirigente scolastico&#xD;
+- Famiglie&#xD;
+- Organizzativo della scuola</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:Group" id="10c6124b-8916-4612-93fd-2049b7b52f84" name="Key Activities" font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#f9999b">
+        <bounds x="348" y="84" width="253" height="181"/>
+        <child xsi:type="archimate:Note" id="96f272ce-299e-4649-be0e-0c8f746de4c2" font="1|Segoe UI|14.25|2|WINDOWS|1|-19|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI" fillColor="#f9999b" textPosition="1" borderType="2">
+          <bounds x="12" y="36" width="229" height="133"/>
+          <content>Composizione automatica classi prime e terze secondo criteri da definire</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:Group" id="59406839-59f0-4e74-9a8e-6b0516e5d57c" name="Value Propositions" font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#ffff80">
+        <bounds x="600" y="84" width="253" height="361"/>
+        <child xsi:type="archimate:Note" id="445b34bc-edb0-4388-9b09-66492b030176" font="1|Segoe UI|14.25|2|WINDOWS|1|-19|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI" fillColor="#ffff80" textPosition="1" borderType="2">
+          <bounds x="12" y="108" width="229" height="169"/>
+          <content>Offriamo un'applicazione con lo scopo di rendere più rapida, semplice e dinamica la composizione delle classi dell'ITI Marconi </content>
+        </child>
+      </child>
+      <child xsi:type="archimate:Group" id="327df0d5-e270-4487-a2fd-cf46e89a4a56" name="Key Resources" font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#f9999b">
+        <bounds x="348" y="264" width="253" height="181"/>
+        <child xsi:type="archimate:Note" id="2348b742-75a0-4839-bebe-fbb21f15839e" font="1|Segoe UI|14.25|2|WINDOWS|1|-19|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#f9999b" textPosition="1" borderType="2">
+          <bounds x="12" y="36" width="229" height="133"/>
+          <content>- Computer della scuola&#xD;
+- Trello&#xD;
+- Database&#xD;
+- Web server</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:Group" id="7d26ce18-ee3b-4732-adf1-5b068d6a4aa2" name="Customer Relationship" font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#aeffb0">
+        <bounds x="852" y="84" width="301" height="181"/>
+        <child xsi:type="archimate:Note" id="4841811d-b255-49b7-a329-fc525c9619d4" font="1|Segoe UI|14.25|2|WINDOWS|1|-19|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI" fillColor="#aeffb0" textPosition="1" borderType="2">
+          <bounds x="24" y="48" width="253" height="109"/>
+          <content>Viene stabilita una relazione con la scuola</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:Group" id="bd0cb798-57e1-44ea-961c-9228d3bb63e7" name="Channels" font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#aeffb0">
+        <bounds x="852" y="264" width="301" height="181"/>
+        <child xsi:type="archimate:Note" id="3f88a25c-58c7-42eb-bcc3-7ec988cd953b" font="1|Segoe UI|14.25|2|WINDOWS|1|-19|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI" fillColor="#aeffb0" textPosition="1" borderType="2">
+          <bounds x="24" y="36" width="253" height="133"/>
+          <content>I clienti verranno raggiunti attraverso un'applicazione web</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:Group" id="3ae60ac0-60f5-47b5-84b5-c27dd7fcda0e" name="Customer Segments" font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#aeffb0">
+        <bounds x="1152" y="84" width="265" height="361"/>
+        <child xsi:type="archimate:Note" id="e1d812af-da90-4839-bb28-db01fdf4573a" font="1|Segoe UI|14.25|2|WINDOWS|1|-19|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#aeffb0" borderType="2">
+          <bounds x="12" y="156" width="241" height="61"/>
+          <content>- Organizzativo della scuola</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:Group" id="074d92c8-6d2f-4388-8a4b-827cc7c1923a" name="Cost Structure" font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#8de4fe">
+        <bounds x="96" y="444" width="660" height="157"/>
+        <child xsi:type="archimate:Note" id="4caded32-a667-4022-9f0b-136ba5fe4280" font="1|Segoe UI|14.25|2|WINDOWS|1|-19|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI" fillColor="#8de4fe" textPosition="1" borderType="2">
+          <bounds x="216" y="48" width="265" height="85"/>
+          <content>Attualmente non è stato rilevato alcun costo aggiuntivo</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:Group" id="e9d3b86e-d466-4f82-97c4-5f9599333b6d" name="Revenue Streams" font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#8de4fe">
+        <bounds x="755" y="444" width="662" height="157"/>
+        <child xsi:type="archimate:Note" id="8123bd48-4b6f-4640-9fbd-27b99452361e" font="1|Segoe UI|14.25|2|WINDOWS|1|-19|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI" fillColor="#8de4fe" textPosition="1" borderType="2">
+          <bounds x="192" y="48" width="241" height="80"/>
+          <content>Esperienza organizzativa e morale</content>
+        </child>
+      </child>
+    </element>
+  </folder>
+</archimate:model>
