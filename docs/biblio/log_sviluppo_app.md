@@ -22,3 +22,5 @@
     - Aggiunta di una barra di ricerca alla pagina principale
     - Rielaborazione interfaccie per inserimento dati
     - Rielaborazione stile delle pagine
+- 09/04/2018
+    - Rielaborazione interfaccie per inserimento dati
