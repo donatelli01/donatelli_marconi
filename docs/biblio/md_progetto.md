@@ -24,6 +24,7 @@ Per lo sviluppo del progetto viene utilizzata una macchina virtuale Windows 7 a 
 - 32MB di memoria video
 
 Per quanto riguarda i software installati sulla macchina quelli necessari sono:
+
 - XAMPP
 - Notepad++
 - Python
