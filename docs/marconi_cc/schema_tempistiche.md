@@ -1,1 +1,0 @@
-# Documentazione - Schema Tempistiche
