@@ -6,6 +6,6 @@ viene resa visibile e disponibile a chiunque.
 + [ReadtheDocs](https://readthedocs.org/)
 + [Atom](https://atom.io)
 ### Authors
-+ [ContiEnrico](https://github.com/Cionty)
-+ [AldegheriDavide](https://github.com/davidealdegheri)
-+ [BellomiLeonardo](https://github.com/kidoleo)
++ [Conti Enrico](https://github.com/Cionty)
++ [Aldegheri Davide](https://github.com/davidealdegheri)
++ [Bellomi Leonardo](https://github.com/kidoleo)
