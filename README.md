@@ -1,4 +1,4 @@
-# Repository of PMO Project ITI G. Marconi
+# Repository of ITI G. Marconi projects
 
 
 Deposito navigabile di documentazioni
@@ -16,3 +16,4 @@ Tix-Logistik
 EDUS
 
 Biblioteca
+
