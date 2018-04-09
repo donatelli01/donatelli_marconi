@@ -1,3 +1,5 @@
+##### legenda Data: dd-mm-yyyy
+
 | Consegna Documentazione | Marconi CC | Marconi TT | EDUS | Biblioteca | TX Logistik| 
 |--- | --- | --- | --- | --- | --- | 
 | Dati Personali/Sensibili | 20-12-2017  | 17/01/18 | 20-12-2017 | 24-01-2018 | 10-01-18 |
@@ -9,4 +11,4 @@
 | Documentazione Progetto sullo Sprint Bisettimanale | 04-04-2018 | 04-04-2018 | 04-04-2018 | 04-04-2018 | 04-04-2018 | 
 | Documentazione Area Lab | | | | |
 
-##### legenda Data: dd-mm-yyyy
+
