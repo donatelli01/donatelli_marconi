@@ -9,6 +9,7 @@ Di seguito una guida per testare il progetto.
 ### Prerequisiti
 
 I software necessari per il corretto funzionamento del progetto sono:
+
 - [xampp](https://www.apachefriends.org/it/index.html)
 - un qualsiasi editor di testo, ad esempio [notepad++](https://notepad-plus-plus.org/)
 - un qualsiasi browser, ad esempio [chrome](https://www.google.com/chrome/)
