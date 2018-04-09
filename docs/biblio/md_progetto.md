@@ -3,6 +3,7 @@
 ## DESCRIZIONE PROGETTO
 Il progetto biblio prevede l'implementazione del sistema bibliotecario scolastico andando ad aggiungere nuove funzionalità che faciliteranno la gestione del processo.
 Attualmente il sistema bibliotecario è accessibile da:
+
 - apps.marconivr.it
 - http://www.anobii.com/marconivr/profile
 ***
