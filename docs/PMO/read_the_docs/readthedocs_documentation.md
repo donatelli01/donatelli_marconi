@@ -31,7 +31,7 @@
   + Nella repository github sarà necessario avere una cartella `docs` in root alla repository, ad esempio:[PMO_docs](https://github.com/kidoleo/PMO_readthedocs/new/master/docs/)
   + Creare un file `index.md` all' interno della cartella `docs` con all'interno le informazioni principali che verranno mostrate in homepage
 
-#### Possibili problemi e soluzioni :
+### Possibili problemi e soluzioni :
 
   + Il file creato all' interno della cartella `docs` per la pagina principale della documentazione deve essere espressamente chiamata `index.md`, con qualsiasi altro nome, ad esempio `README.md`, il servizio non funziona.
   + Tutti i file di documentazione devono essere necessariamente messi in una directory denominata `docs` in root alla repository.
