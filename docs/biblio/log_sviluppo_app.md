@@ -1,0 +1,24 @@
+### DOCUMENTAZIONE AVANZAMENTO SVILUPPO APP
+- 28/02/2018 - INIZIO SVILUPPO APP
+    - Decisione struttura applicazione
+        - livello applicazione -> PHP
+        - livello presentazione -> HTML/CSS(bootstrap)/JS
+        - livello risorse -> DB -> MySQL
+    - Inizializzazione applicazione con creazione tabella 'libri'
+- 05-06/03/2018
+    - Implementazione struttura di base dell'applicazione con operazione di inserimento dati nella tabella 'libri' tramite form creato all'interno dell'applicazione
+- 07/03/2018
+    - Creazione delle tabelle 'autori' e 'copie' con conseguente implementazione del form di inserimento dati su quest'ultime tramite l'applicazione
+    - Modifica sistema di alert relativo all'inserimento dei dati nelle tre tabelle totali 
+- 29/03/2018
+    - Modifica database MySQL con aggiunta tabelle esportate dal file access contenente le tabelle di gestione del sistema bibliotecario
+    - Revisione codice app finora sviluppato
+- 04/04/2018
+    - Modifica interfaccia dell'applicazione web
+- 05/04/2018
+    - Abbiamo aggiunto la funzione di login alla pagina principale dell'applicazione web
+    - Abbiamo iniziato lo sviluppo dell'aggiunta di una barra di ricerca alla pagina principale dell'app, dove è stata implementata anche la login
+- 06/04/2018
+    - Aggiunta di una barra di ricerca alla pagina principale
+    - Rielaborazione interfaccie per inserimento dati
+    - Rielaborazione stile delle pagine
