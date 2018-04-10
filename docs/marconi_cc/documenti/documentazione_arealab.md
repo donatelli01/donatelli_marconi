@@ -16,7 +16,7 @@
 - Implementazione script per Ajax callback functions (*formcontroller.js*)
 - Implementazione script (*SideNavController.js*)
 - Implementazione script per la gestione dei moduli (*generatemodals.js*)
-- Idelogia algoritmo per la composizione delle classi
+- Ideologia algoritmo per la composizione delle classi
 
 
 
