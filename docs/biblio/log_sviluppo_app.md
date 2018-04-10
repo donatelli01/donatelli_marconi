@@ -24,3 +24,6 @@
     - Rielaborazione stile delle pagine
 - 09/04/2018
     - Rielaborazione interfaccie per inserimento dati
+- 10/04/2018    
+    - Modifica sistema di accesso all'applicazione con l'aggiunta di una gestione delle utenze tramite LDAP
+    - Rielaborazione interfaccie per inserimento dati
