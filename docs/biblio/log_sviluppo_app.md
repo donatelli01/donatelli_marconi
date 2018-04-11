@@ -25,5 +25,7 @@
 - 09/04/2018
     - Rielaborazione interfaccie per inserimento dati
 - 10/04/2018    
-    - Modifica sistema di accesso all'applicazione con l'aggiunta di una gestione delle utenze tramite LDAP
+    - Modifica sistema di login con l'aggiunta di una gestione delle utenze tramite LDAP
     - Rielaborazione interfaccie per inserimento dati
+- 11/04/2018
+    - Modifica sistema di login con l'aggiunta della gestione dell'errore
