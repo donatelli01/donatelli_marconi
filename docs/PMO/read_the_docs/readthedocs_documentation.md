@@ -30,6 +30,7 @@
 
   + Nella repository github sarà necessario avere una cartella `docs` in root alla repository, ad esempio:[PMO_docs](https://github.com/kidoleo/PMO_readthedocs/new/master/docs/)
   + Creare un file `index.md` all' interno della cartella `docs` con all'interno le informazioni principali che verranno mostrate in homepage
+  + I file vanno denominati senza spazi
 
 ### Possibili problemi e soluzioni :
 
