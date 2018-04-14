@@ -29,3 +29,5 @@
     - Rielaborazione interfaccie per inserimento dati
 - 11/04/2018
     - Modifica sistema di login con l'aggiunta della gestione dell'errore
+- 13/04/2018
+    - Revisione lavoro svolto fino al giorno corrente e decisione piano d'azione per proseguire nello sviluppo
