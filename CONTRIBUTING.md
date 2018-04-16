@@ -16,7 +16,7 @@ richieste di nuove funzionalità e creazione di pull request, nel rispetto di qu
 
 ## Issue e label
 
-Il repository di Bootstrap Italia usa alcune label per identificare le issue (criticità):
+Il repository di marconivr/docs Italia usa alcune label per identificare le issue (criticità):
 
 - `accessibility` - Criticità riguardanti accessibilità.
 - `docs` - Criticità riguardanti la documentazione dei componenti.
