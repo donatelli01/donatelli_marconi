@@ -31,3 +31,8 @@
 - Bonomi e Carra hanno svolto la documentazione e contribuito alla riscrittura del codice dell'applicazione
 - Fava e Visentini hanno contribuito a riscrivere il codice dell'applicazionee 
 
+### Periodo 5
+
+- Marchioro ha reimplementato i vari pannelli di gestione e configurazione dell'applicativo, utilizzando chiamate AJAX.
+- Bonomi e Carra hanno svolto la documentazione bisettimanale e di AreaLab, contribuendo inoltre all'inizio dei test della struttura dell'algoritmo di Composizione Classi in versione Python
+- Visentini e Fava hanno fixato dei bug all'interno del database e dell'applicativo, aiutando inoltre Marchioro a riconfigurare l'UI degli ultimi pannelli almeno dal lato concettuale. Loro sono inoltre gli autori della versione PHP dell'algoritmo di Composizione Classi.
