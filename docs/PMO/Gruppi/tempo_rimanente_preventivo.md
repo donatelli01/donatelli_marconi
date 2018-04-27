@@ -4,7 +4,7 @@
 
 ### Marconi CC :
   + Manca l' algoritmo
-  + tempo previsto 6 settimane
+  + Tempo previsto 6 settimane
   
 ---
 
@@ -12,14 +12,14 @@
   + Implementazione della barra di ricerca
   + Bug fix
   + Sistemazione Login
-  + tempo previsto 5 settimane
+  + Tempo previsto 5 settimane
   
 ---
 
 ### TixLogistik :
   + Report
   + Bug fix
-  + tempo previsto 1 mese e mezzo
+  + Tempo previsto 1 mese e mezzo
  
 ---
 
@@ -29,11 +29,17 @@
   + Riadattare il php alle query
   + Modifiche estetica
   + Bug Fix
-  + tempo previsto 3 settimane
+  + Tempo previsto 3 settimane
   
 ---
 
 ### MArconi TT :
- 
+  + Feature generali
+  + Limitare uso applicativo
+  + Controllo ripetizione prenotazioni
+  + Eliminazione prenotazione con email di avviso
+  + Miglioramento prenotazione
+  + Tempo previsto 1 mese
+  
  
  ---
