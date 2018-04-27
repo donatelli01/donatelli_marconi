@@ -24,9 +24,16 @@
 ---
 
 ### EDUS :
-
+  + Form login tutor da sistemare
+  + Cambio password tutor
+  + Riadattare il php alle query
+  + Modifiche estetica
+  + Bug Fix
+  + tempo previsto 3 settimane
+  
 ---
 
 ### MArconi TT :
+ 
  
  ---
