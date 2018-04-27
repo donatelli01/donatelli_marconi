@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/marconivr/docs/issues)
+
 # Repository of ITI G. Marconi projects
 
 
