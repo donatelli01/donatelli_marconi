@@ -33,7 +33,7 @@
   
 ---
 
-### MArconi TT :
+### Marconi TT :
   + Feature generali
   + Limitare uso applicativo
   + Controllo ripetizione prenotazioni
