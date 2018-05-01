@@ -32,5 +32,6 @@
 - 13/04/2018
     - Revisione lavoro svolto fino al giorno corrente e decisione piano d'azione per proseguire nello sviluppo
 - 18/04/2018
-    - Aggiunta di un pulsante all'applicazione che riporta all'opzione di ricerca dei libri
-    - Modifica connessione database - switch a SQLServer
+    - Modifica connessione database - switch a SQLServer, da implementare
+- 01/05/2018
+    - Revisione lavoro svolto fino al giorno corrente
