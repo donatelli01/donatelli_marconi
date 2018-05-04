@@ -1,4 +1,4 @@
-[![Github ReadTheDocs App](https://img.shields.io/badge/WebApp-on-green.svg)](https://github.com/marconivr/docs/commits/master)
+[![Github ReadTheDocs App](https://img.shields.io/badge/WebApp-on-green.svg)](http://marconivr-docs.readthedocs.io/it/latest/)
 
 
 # Repository of ITI G. Marconi projects
