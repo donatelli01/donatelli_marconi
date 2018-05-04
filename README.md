@@ -1,4 +1,5 @@
-[![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/marconivr/docs/issues)
+[![Github ReadTheDocs App](https://img.shields.io/badge/WebApp-on-green.svg)](https://github.com/marconivr/docs/commits/master)
+
 
 # Repository of ITI G. Marconi projects
 
