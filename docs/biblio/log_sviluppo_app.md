@@ -35,3 +35,5 @@
     - Modifica connessione database - switch a SQLServer, da implementare
 - 01/05/2018
     - Revisione lavoro svolto fino al giorno corrente
+- 04/05/2018
+    - Implementazione del form per l'inserimento delle copie
