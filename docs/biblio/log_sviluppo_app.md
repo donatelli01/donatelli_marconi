@@ -37,3 +37,7 @@
     - Revisione lavoro svolto fino al giorno corrente
 - 04/05/2018
     - Implementazione del form per l'inserimento delle copie
+- 11/05/2018
+    - Implementazione dei form per l'inserimento dei dati
+    - Revisione dati biblio
+    - Revisione documentazione
