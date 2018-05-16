@@ -1,4 +1,5 @@
-![](https://github.com/marconivr/docs/blob/master/docs/PMO/logo.png)| Spalte 2   | Spalte 3
+![](https://github.com/marconivr/docs/blob/master/docs/PMO/logo.png)| ISTITUTO TECNICO INDUSTRIALE Guglielmo Marconi
+ |
 -------- | ---------- | ----------
 *Inhalt* | **Inhalt** | ~~Inhalt~~
 Inhalt   | Inhalt     | Inhalt
