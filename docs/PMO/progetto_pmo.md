@@ -10,4 +10,4 @@ Cod.* EF |PROGETTO PMO|
 
 
 ### SCOPO 
-L'obiettivo del nostro progetto è quello di raccogliere la documentazione prodotta dagli altri gruppi durante lo svolgimento del loro lavoro
+Il nostro progetto consiste nella raccolta, <br> nella revisione della documentazione, <br>che successivamente viene resa visibile e disponibile a chiunque.
