@@ -43,3 +43,5 @@
     - Revisione documentazione
 - 14/05/2018
     - Implementazione dei form secondari
+- 16/05/2018
+    - Inizio sviluppo connettore per SQL Server
