@@ -1,6 +1,6 @@
 # BIBLIO
 ### DOCUMENTAZIONE AREA LAB
-***
+*** 
 - ##### 04/04/2018
     - Abbiamo modificato l'interfaccia dell'applicazione web
     - Abbiamo rielaborato il lavoro svolto fino al giorno corrente ed i piani per le implementazioni future
