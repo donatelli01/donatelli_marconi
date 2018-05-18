@@ -45,3 +45,5 @@
     - Implementazione dei form secondari
 - 16/05/2018
     - Inizio sviluppo connettore per SQL Server
+- 18/05/2018
+    - Review funzionamento app
