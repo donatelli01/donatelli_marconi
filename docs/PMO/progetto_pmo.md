@@ -24,3 +24,5 @@ RISULTATI ATTESI: utilizzo efficace della documentazione<br>
 
 ### STRUMENTI
 [github](https://github.com/marconivr/docs)
+
+[readthedocs](http://marconivr-docs.readthedocs.io/it/latest)
