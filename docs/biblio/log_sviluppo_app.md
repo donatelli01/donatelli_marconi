@@ -46,4 +46,6 @@
 - 16/05/2018
     - Inizio sviluppo connettore per SQL Server
 - 18/05/2018
-    - Review funzionamento app
+    - Revisione funzionamento app
+- 23/05/2018
+    - Revisione funzionamento e struttura dei form per l'inserimento dei dati
