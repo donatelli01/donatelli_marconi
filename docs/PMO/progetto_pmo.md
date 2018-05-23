@@ -1,9 +1,9 @@
 ![](https://github.com/marconivr/docs/blob/master/docs/PMO/logo.png)| ISTITUTO TECNICO INDUSTRIALE <br>Guglielmo Marconi
  |
 -------- | ---------- | ----------
-Cod.* EF |PROGETTO PMO|
+ --- |PROGETTO PMO|
 
-### CONTENTS
+### INDICE
  scopo <br>
  campo di applicazione <br>
  descrizione <br>
