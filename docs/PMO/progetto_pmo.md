@@ -17,7 +17,7 @@ Il nostro progetto consiste nella raccolta, <br> nella revisione della documenta
 la procedura si occupa di raccogliere la documentazione dei vari gruppi, di organizzarla e archiviarla. la procedura viene utilizzata dai vari gruppi per caricare la documentazione e da qualunque persona per andare a visitare la documentazione.
 
 ### DESCRIZIONE DELL'ATTIVITA'
-TIPOLOGIA: raccolta e archiviazione della documentazione
-TEMPI: tutto l'anno
-DESTINATARI: tutti
-RISULTATI ATTESI: utilizzo efficace della documentazione
+TIPOLOGIA: raccolta e archiviazione della documentazione <br>
+TEMPI: tutto l'anno<br>
+DESTINATARI: tutti<br>
+RISULTATI ATTESI: utilizzo efficace della documentazione<br>
