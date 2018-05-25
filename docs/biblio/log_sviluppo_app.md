@@ -49,3 +49,6 @@
     - Revisione funzionamento app
 - 23/05/2018
     - Revisione funzionamento e struttura dei form per l'inserimento dei dati
+- 25/05/2018
+    - Modifica dei file sql per la creazione e il popolamento del database biblio in locale
+    - Ripristino modalità di accesso tramite LDAP rodc
