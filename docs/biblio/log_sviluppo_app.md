@@ -52,3 +52,7 @@
 - 25/05/2018
     - Modifica dei file sql per la creazione e il popolamento del database biblio in locale
     - Ripristino modalità di accesso tramite LDAP rodc
+- 28/05/2018
+    - Spostamento ambiente di lavoro su edu-x04
+    - Adattamento connettore e query per il funzionamento su edu-x04
+    - Revisione funzionamento app
