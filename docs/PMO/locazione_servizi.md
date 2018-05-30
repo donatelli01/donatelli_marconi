@@ -34,4 +34,4 @@
 
 
 ### Schema: 
-+ [Locazione Servizi](https://github.com/marconivr/docs/blob/master/docs/PMO/locazione_servizi_21-03-2018.PNG)
++ [Locazione Servizi](https://github.com/marconivr/docs/blob/master/docs/PMO/risorse_utili/locazione_servizi_21-03-2018.PNG)
