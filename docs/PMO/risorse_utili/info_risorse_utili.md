@@ -1,7 +1,6 @@
 # Risorse Utili
 
-
-### Directory dedita alla condivisione di risorse utili per il gruppo PMO e gli altri gruppi di progetto
+  Directory dedita alla condivisione di risorse utili per il gruppo PMO e gli altri gruppi di progetto
 
 ### Risorse
 
