@@ -56,3 +56,6 @@
     - Spostamento ambiente di lavoro su edu-x04
     - Adattamento connettore e query per il funzionamento su edu-x04
     - Revisione funzionamento app
+- 01/06/2018
+    - Spostamento ambiente di lavoro su edu-w06
+    - Adattamento connettore e query per il funzionamento su edu-w06
