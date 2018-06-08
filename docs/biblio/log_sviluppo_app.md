@@ -60,4 +60,7 @@
     - Spostamento ambiente di lavoro su edu-w01
     - Adattamento connettore e query per il funzionamento con edu-w06
 - 04/06/2018
-    - Continuazione adattamento query per il funzionamento su edu-w06
+    - Continuazione adattamento query per il funzionamento con edu-w06
+- 08/06/2018
+    - Completamento adattamento app per il funzionamento con edu-w06
+    - Revisione funzionamento applicazione
