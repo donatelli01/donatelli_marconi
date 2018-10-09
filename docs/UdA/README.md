@@ -7,3 +7,6 @@
 Unità di Apprendimento:
 
 + [ETL](https://github.com/marconivr/docs/tree/master/docs/UdA/Analisi_dati_e_processo_ETL)
+
+## Authors
+Bellini Gianni, Dallago Nadia
