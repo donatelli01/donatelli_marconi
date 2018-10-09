@@ -1,3 +1,0 @@
-# Lavoro svolto
-- Revisione della proposta di realizzazione: il team si è reso conto che la tabelle dotazioni e materiale probabilmente contenevano la stessa cosa, ed è proceduta l'eliminazione della ridondanza. Pertanto i campi che materiale aveva in più rispetto a dotazione sono stati spostati in quest'ultima.
-- Creazione di una prima versione delle tabelle in Access, comprensiva della tipologia di dati e della descrizione del campo. Relazioni e vincoli abbiamo calcolato di farli in un prossimo sprint dove avremo converma di alcune incertezze che verranno successivamente illustrate.
