@@ -4,14 +4,10 @@
 # Repository of ITI G. Marconi projects
 
 
-#### Deposito navigabile di documentazioni
+Progetti:
 
-Groups:
-
-+ [Marconi cc](https://github.com/marconivr/docs/tree/master/docs/marconi_cc)
++ [MarconiCC](https://github.com/marconivr/docs/tree/master/docs/marconi_cc)
 
 + [MarconiTT](https://github.com/marconivr/docs/tree/master/docs/marconi_tt)
 
 + [EDUS](https://github.com/marconivr/docs/tree/master/docs/EDUS)
-
-
