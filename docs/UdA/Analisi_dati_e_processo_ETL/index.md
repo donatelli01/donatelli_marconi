@@ -16,7 +16,7 @@ Creazione di una base di dati normalizzata popolata con i dati filtrati da un fi
 
 ## Competenze
 
-###1) Modellare una realtà
+### 1) Modellare una realtà
 
 #### Evidenza:
 Capacità di analisi 
@@ -25,7 +25,6 @@ Capacità di analisi
 - Progettare una base di dati
 - Creare una base di dati
 - Popolare la base di dati
-
 
 #### Conoscenze:
 - File in formato open 
@@ -47,7 +46,7 @@ Documentare:
 - le fasi di lavoro
 - le lezioni (appunti e foto alla lavagna)
 - il codice
-- 
+
 #### Conoscenze:
 Strumenti di scrittura (Word, markdownPad)
 
@@ -78,7 +77,6 @@ Fase 6: Processo di ETL per l’inserimento dei dati nel data base
 
 Fase 7: Documentare
 
-
 ### Esperienze attivate ossia cosa fa l’allievo
 
 - Analisi del tracciato record con i compagni e confronto delle soluzioni proposte
@@ -87,6 +85,7 @@ Fase 7: Documentare
 - Estrazione dei dati da file e inserimento nel DB e creazione dei file di log e di errori
 
 ### Metodologia
+
 I docenti
 
 - guidano la classe nella discussione, fornisce materiale (filmati prodotti dal docente, documenti ecc.)
@@ -97,7 +96,6 @@ I docenti
 
 #### Titolo UdA
 Analisi dati e processo di ETL scuole MIUR
-
 
 #### Cosa si chiede di fare: 
 Viene fornito il file .csv che contiene i dati scaricati da  http://dati.istruzione.it/opendata/opendata/catalogo
@@ -111,7 +109,6 @@ Viene fornito il file .csv che contiene i dati scaricati da  http://dati.istruzi
 4)	Scrivete il codice in linguaggio Java per l’inserimento dei dati nel DB realizzato nel punto 3 e scrivete nel file error.csv i record non processati. Ricordate di scrivere anche il file di log con data, numero di righe processate, inserite e non inserite.
 
 5)	Documentare con una relazione tutte le attività
-
 
 ### Modalità di lavoro: 
 Si utilizza una modalità di lavoro mista, per alcune fasi (1 e 5) sono previsti lavori di gruppo per le altre lavoro autonomo.
