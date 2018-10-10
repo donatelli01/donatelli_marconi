@@ -2,4 +2,4 @@
 
 Folder in cui sono presenti i documenti per l'utilizzo dell'applicazione EDUS
 
-+ MOD15P-DID.docx - Accreditamento Tutor
++ [Accreditamento Tutor - MOD15P-DID.docx](https://github.com/marconivr/docs/tree/master/docs/EDUS/Documentazione)
