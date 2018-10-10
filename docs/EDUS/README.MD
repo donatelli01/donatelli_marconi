@@ -1,9 +1,8 @@
 # EDUS
-EDUS è un applicazione webica per la gestione del servizio interno di prenotazione
-degli sportelli tra pari
+EDUS è un applicazione web per la gestione del peer-tutoring tra studenti
 
-### Prerequisities
-+ Essere accreditati come tutor 
+### Documenti utente
+Nella cartella Documentazione si trova il modulo di approvazione tutor e il manuale d'uso segreteria
 
 ### Built with
 + PHP
