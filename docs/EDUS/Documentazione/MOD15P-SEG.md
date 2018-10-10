@@ -9,5 +9,5 @@ L’applicazione EDUS è accessibile attraverso il link EDUS sul panel interno:
 
 La pagina che si presenterà sarà simile alla seguente:
 
-![Login EDUS](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![Login EDUS](D:/scuola/SIGMA/marconivr/docs/docs/images/edus_login01.png)
+![Login EDUS](https://github.com/marconivr/docs/blob/master/docs/images/edus_login01.png "Logo Title Text 1")
+
