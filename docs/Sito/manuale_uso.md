@@ -35,11 +35,12 @@ Le pagine contengono testo ed eventualmente collegamenti altre pagine web, colle
 
 *	I riferimenti a file sono aggiunti direttamente nella pagina 
 *	I collegamenti a file sono verso documenti condivisi su g-suite
+
+![testo alt](../images/crea_pagina_semplice.png "Crea pagina semplice")
  
 L'accesso alla cartella condivisa su g-suite (condivisione di file e cartelle specifici per funzione) che equivale alla voce Archivio Documenti sono accessibili via portale Cloud G Suite con account *marconiverona.edu.it*
 
 ![testo alt](../images/cartella_condivisa_gsuite.png "Cartella condivisa G Suite ")
-
 
 I folder condivisi sono accessibili:
 
@@ -50,8 +51,8 @@ I folder condivisi sono accessibili:
 
 Per ogni funzione strumentale o editor è stato creato un gruppo di pagine contenente:
 
-	la pagina semplice (con lo stesso nome del gruppo)
-	(opz) un link con il nome **documenti** alla cartella condivisa pubblica su g-suite (il cui nome è associato al gruppo)
+	una la pagina semplice (con lo stesso nome del gruppo)
+	un link (opz) con il nome **documenti** alla cartella condivisa pubblica su g-suite (il cui nome è associato al gruppo)
 	
 Esempio:
 
