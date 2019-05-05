@@ -1,1 +1,0 @@
-# Documento - Manuale Sviluppo Prodotto
