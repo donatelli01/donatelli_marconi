@@ -31,6 +31,11 @@ Le funzioni strumentali e gli editor del sito hanno **già** (PER ORA) a disposi
 
 Alle pagine semplici a loro dedicate, le funzioni strumentali accedono con l'account *spaggiari*. 
 
+![testo alt](../images/pagine_semplici.png "Pagine semplici")
+
+![testo alt](../images/pagine_semplici_nuovo.png "Nuova")
+
+
 Le pagine contengono testo ed eventualmente collegamenti altre pagine web, collegamenti a file (allegati) o riferimenti a file g-suite.
 
 *	I riferimenti a file sono aggiunti direttamente nella pagina 
