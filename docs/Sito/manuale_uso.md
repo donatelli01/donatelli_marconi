@@ -47,6 +47,12 @@ Pagine del gruppo
 	Documenti (link esterno ricavato da g-suite) https://drive.google.com/drive/folders/1oWSS_aOBPmExsrUvVrUJfpasb0s8WoW1?usp=sharing
 
 
+### Nuove pagine semplici
+
+Agli editor è permesso creare nuove pagine semplici, che dovranno essere poi rese accessibili dagli amministratori
+
+![testo alt](../images/crea_pagina_semplice.png "Crea pagina semplice")
+
 #### Link g-suite presenti
  
 **PCTO**
