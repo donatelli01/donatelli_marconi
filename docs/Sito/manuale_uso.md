@@ -82,14 +82,29 @@ I folder condivisi sono accessibili:
 
 #### Link g-suite presenti
  
-**PCTO**
-
-https://drive.google.com/drive/folders/1kscevvI2OBKu-mqkj3-Nb1Y55beWelEX
-
 **Supporto docenti**
 
-https://drive.google.com/drive/folders/1oWSS_aOBPmExsrUvVrUJfpasb0s8WoW1?usp=sharing
+https://drive.google.com/open?id=1oWSS_aOBPmExsrUvVrUJfpasb0s8WoW1
 
+**Coordinamento per l'attività di inclusione**
+
+https://drive.google.com/open?id=1XAUnMnHC2D_NTg7UoHGkYKxJLdGxW6cM
+
+**Interventi e servizi per gli studenti**
+
+https://drive.google.com/open?id=1TaV_JODOzYjX9rUjWYyflGHDaxnPSoM9
+
+**Orientamento in ingresso, in itinere e in uscita**
+
+https://drive.google.com/open?id=1-3JZe8oNwQ9M6e6Wxv405r4RdBEeKGvt
+
+**Sicurezza**
+
+https://drive.google.com/open?id=11wJlAwkKsPeVfteWquR8Y-oW4ZqkKatR
+
+**PCTO**
+
+https://drive.google.com/open?id=1kscevvI2OBKu-mqkj3-Nb1Y55beWelEX
 
 ##### NOTA ADMIN
 
