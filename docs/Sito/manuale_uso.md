@@ -6,7 +6,7 @@ Le news sono inserite a mano e si parte dal menu principale Serbatoio News
 
 ## Funzioni Strumentali e editor sito: pagine semplici, pagine di gruppo, folder condivisi 
 
-#### Accesso editing pagine
+### Accesso editing pagine
 
 Registro online
 
@@ -22,21 +22,24 @@ Registro online
 	
 ![testo alt](../images/menu_editor.png "Menu Editor")
 
-#### Attività
+### Attività
 
-Le funzioni strumentali e gli editor del sito hanno a disposizione:
+Le funzioni strumentali e gli editor del sito hanno **già** (PER ORA) a disposizione:
 
-*	pagine semplici
+*	pagina semplice
 *	cartella condivisa su g-suite
 
 Alle pagine semplici a loro dedicate, le funzioni strumentali accedono con l'account *spaggiari*. 
 
-Le pagine contengono testo ed eventualmente collegamenti altre pagine web, collegamenti a file o riferimenti (allegati) a file.
+Le pagine contengono testo ed eventualmente collegamenti altre pagine web, collegamenti a file (allegati) o riferimenti a file g-suite.
 
 *	I riferimenti a file sono aggiunti direttamente nella pagina 
 *	I collegamenti a file sono verso documenti condivisi su g-suite
  
-La condivisione di file specifici per funzione (file e cartelle condivise - ex Archivio Documenti) sono accessibili via g-suite con account *marconiverona.edu.it*
+L'accesso alla cartella condivisa su g-suite (condivisione di file e cartelle specifici per funzione) che equivale alla voce Archivio Documenti sono accessibili via portale Cloud G Suite con account *marconiverona.edu.it*
+
+![testo alt](../images/cartella_condivisa_gsuite.png "Cartella condivisa G Suite ")
+
 
 I folder condivisi sono accessibili:
 
