@@ -6,6 +6,24 @@ Le news sono inserite a mano e si parte dal menu principale Serbatoio News
 
 ## Funzioni Strumentali e editor sito: pagine semplici, pagine di gruppo, folder condivisi 
 
+#### Accesso editing pagine
+
+Registro online
+
+	Applicazioni
+
+![testo alt](../images/applicazioni.png "Applicazioni ")
+
+	Applicazioni - 1VisioneWeb
+
+![testo alt](../images/1visioneweb.png "1a VisioneWeb")
+
+	Applicazioni - 1VisioneWeb - Menu
+	
+![testo alt](../images/menu_editor.png "Menu Editor")
+
+#### Attività
+
 Le funzioni strumentali e gli editor del sito hanno a disposizione:
 
 *	pagine semplici
