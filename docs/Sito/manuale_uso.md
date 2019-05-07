@@ -1,8 +1,8 @@
 # Sito marconiverona.edu.it (2019)
----
+
 
 ## Done!
----
+
 
 *	Organizzazione homepage e menu
 *	Riorganizzazione struttura pagine
@@ -12,7 +12,7 @@
 *	Implementazione incrementale dei contenuti
 
 ## To Do Now (CONDIVISIONE)
----
+
 
 *	Condivisione organizzazione homepage, menu e pagine
 *	Condividere organizzazione pagine per editor (funzioni strumentali, ...)
@@ -21,13 +21,13 @@
 *	Referente Contenuti Web Extra (?)
 
 ## To Do After
----
+
 
 *	Valorizzare i contenuti
 *	Feedback su anomalie 
 
 ## Scelte
----
+
 
 	Due account: Spaggiari (ovvio) e G-Suite (marconiverona.edu.it)
 	
@@ -40,7 +40,7 @@
 
 
 ## Funzioni Strumentali e editor sito: pagine semplici, pagine di gruppo, folder condivisi 
----
+
 
 **Per l'editing delle pagine del sito, le funzioni strumentali utilizzano l'account *spaggiari*.**
 
