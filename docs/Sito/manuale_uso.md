@@ -24,11 +24,14 @@
 
 ## Scelte
 
+	Due account: Spaggiari (ovvio) e G-Suite (marconiverona.edu.it)
+	
 	Contenuti --> Pagine di gruppo e pagini semplici 
 	Documenti 15 maggio --> Albo Online 
 	Programmi Svolti --> Registro Online
 	Documenti condivisi (Modulistica, ex Area Documenti) --> G Suite
 	Modulistica --> Modulistica Smart
+	Circolari (Comunicati) --> Registro Online
 
 
 ## Funzioni Strumentali e editor sito: pagine semplici, pagine di gruppo, folder condivisi 
