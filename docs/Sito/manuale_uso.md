@@ -6,7 +6,7 @@
 *	Riorganizzazione struttura pagine
 *	Implementazione nuova architettura Archivio documenti
 *	Pulizia contenuti
-*	Riscrittura contenuti
+*	Riscrittura contenuti (alcuni)
 *	Implementazione incrementale dei contenuti
 
 ## TO Do Now (CONDIVISIONE)
