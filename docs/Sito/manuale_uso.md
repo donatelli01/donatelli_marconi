@@ -15,7 +15,7 @@
 *	Condividere organizzazione pagine per editor (funzioni strumentali, ...)
 * 	Condividere scelta email
 *	Condividere decisione su quando passare in produzione
-*	Scelta su Referente Contenuti Web Extra
+*	Referente Contenuti Web Extra (?)
 
 ## TO Do After
 
