@@ -3,7 +3,7 @@
 ## Done!
 
 *	Organizzazione homepage e menu
-*	Riorganizzazione struttura pagine: pagine semplici e pagine di gruppo
+*	Riorganizzazione struttura pagine
 *	Implementazione nuova architettura Archivio documenti
 *	Pulizia contenuti
 *	Riscrittura contenuti
@@ -24,6 +24,7 @@
 
 ## Scelte
 
+	Contenuti --> Pagine di gruppo e pagini semplici 
 	Documenti 15 maggio --> Albo Online 
 	Programmi Svolti --> Registro Online
 	Documenti condivisi (Modulistica, ex Area Documenti) --> G Suite
