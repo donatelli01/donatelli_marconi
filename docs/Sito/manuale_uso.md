@@ -22,6 +22,14 @@
 *	Valorizzare i contenuti
 *	Feedback su anomalie 
 
+## Scelte
+
+	Documenti 15 maggio --> Albo Online 
+	Programmi Svolti --> Registro Online
+	Documenti condivisi (Modulistica, ex Area Documenti) --> G Suite
+	Modulistica --> Modulistica Smart
+
+
 ## Funzioni Strumentali e editor sito: pagine semplici, pagine di gruppo, folder condivisi 
 
 **Per l'editing delle pagine del sito, le funzioni strumentali utilizzano l'account *spaggiari*.**
@@ -129,5 +137,4 @@ https://drive.google.com/open?id=1kscevvI2OBKu-mqkj3-Nb1Y55beWelEX
 In Pagine di gruppo già create gli editor non possono modificare nulla, ma possono modificare le pagine semplici appartenenti al gruppo o pagini semplici da associare a nuove Pagine di gruppo. 
 L'inserimento nel sito delle nuove Pagine (di gruppo e semplici all'interno del nuovo gruppo) sarà a cura dell'amministratore.
 L'attribuzione dei diritti a un editor avviene sulla Pagina di gruppo che fa ereditare alle pagine semplici la stessa autorizzazione.
-
 
