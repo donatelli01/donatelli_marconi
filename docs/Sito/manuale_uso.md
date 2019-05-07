@@ -66,6 +66,7 @@ Pagine del gruppo
 
 ### Accesso editing pagine
 
+
 Registro online
 
 	Applicazioni
@@ -82,12 +83,14 @@ Registro online
 
 ### Attività
 
+
 Le funzioni strumentali e gli editor del sito hanno **già** (PER ORA) a disposizione:
 
 *	pagina semplice
 *	cartella condivisa su g-suite 
 
 #### Pagina semplice
+
 
 **Menu principale
 
@@ -114,6 +117,7 @@ e aver fatto approvare (eventualmente) le pagine semplici create è necessario a
  
 #### Condivisione G Suite
 
+
 L'accesso alla cartella condivisa su g-suite (condivisione di file e cartelle specifici per funzione) che equivale alla voce Archivio Documenti sono accessibili via portale Cloud G Suite con account *marconiverona.edu.it*
 
 ![testo alt](../images/cartella_condivisa_gsuite.png "Cartella condivisa G Suite ")
@@ -125,6 +129,7 @@ I folder condivisi sono accessibili:
 
 
 #### Link g-suite presenti
+ 
  
 **Supporto docenti**
 
@@ -150,7 +155,9 @@ https://drive.google.com/open?id=11wJlAwkKsPeVfteWquR8Y-oW4ZqkKatR
 
 https://drive.google.com/open?id=1kscevvI2OBKu-mqkj3-Nb1Y55beWelEX
 
+
 ##### NOTA ADMIN
+
 
 In Pagine di gruppo già create gli editor non possono modificare nulla, ma possono modificare le pagine semplici appartenenti al gruppo o pagini semplici da associare a nuove Pagine di gruppo. 
 L'inserimento nel sito delle nuove Pagine (di gruppo e semplici all'interno del nuovo gruppo) sarà a cura dell'amministratore.
