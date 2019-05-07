@@ -1,4 +1,4 @@
-# Manuale uso sito marconiverona.edu.it
+# Sito marconiverona.edu.it (2019)
 
 ## Done!
 
@@ -9,12 +9,16 @@
 *	Riscrittura contenuti
 *	Implementazione incrementale dei contenuti
 
-## TO Do
+## TO Do Now (CONDIVISIONE)
 
 *	Condivisione organizzazione homepage, menu e pagine
-*	Valorizzare i contenuti
 * 	Condividere scelta email
+*	Condividere decisione su quando passare in produzione
 
+## TO Do After
+
+*	Valorizzare i contenuti
+*	Feedback su anomalie 
 
 ## Funzioni Strumentali e editor sito: pagine semplici, pagine di gruppo, folder condivisi 
 
