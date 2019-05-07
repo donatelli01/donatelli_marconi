@@ -1,8 +1,20 @@
 # Manuale uso sito marconiverona.edu.it
 
-## News
+## Done!
 
-Le news sono inserite a mano e si parte dal menu principale Serbatoio News
+*	Organizzazione homepage e menu
+*	Riorganizzazione struttura pagine: pagine semplici e pagine di gruppo
+*	Implementazione nuova architettura Archivio documenti
+*	Pulizia contenuti
+*	Riscrittura contenuti
+*	Implementazione incrementale dei contenuti
+
+## TO Do
+
+*	Condivisione organizzazione homepage, menu e pagine
+*	Valorizzare i contenuti
+* 	Condividere scelta email
+
 
 ## Funzioni Strumentali e editor sito: pagine semplici, pagine di gruppo, folder condivisi 
 
@@ -10,8 +22,8 @@ Le news sono inserite a mano e si parte dal menu principale Serbatoio News
 
 Per ogni funzione strumentale o editor è stato creato un gruppo di pagine contenente:
 
-	una la pagina semplice (con lo stesso nome del gruppo)
-	un link (opz) con il nome **documenti** alla cartella condivisa pubblica su g-suite (il cui nome è associato al gruppo)
+	a pagina semplice (con lo stesso nome del gruppo)
+	il link (opz) con il nome **documenti** alla cartella condivisa pubblica su g-suite (il cui nome è associato al gruppo)
 	
 Esempio:
 
