@@ -17,7 +17,7 @@
 *	Condividere decisione su quando passare in produzione
 *	Referente Contenuti Web Extra (?)
 
-## TO Do After
+## To Do After
 
 *	Valorizzare i contenuti
 *	Feedback su anomalie 
