@@ -64,7 +64,7 @@ Pagine del gruppo
 	Documenti (link esterno ricavato da g-suite) https://drive.google.com/drive/folders/1oWSS_aOBPmExsrUvVrUJfpasb0s8WoW1?usp=sharing
 
 
-### Accesso editing pagine
+## Accesso editing pagine
 
 
 Registro online
@@ -81,7 +81,8 @@ Registro online
 	
 ![testo alt](../images/menu_editor.png "Menu Editor")
 
-### Attività
+
+## Attività
 
 
 Le funzioni strumentali e gli editor del sito hanno **già** (PER ORA) a disposizione:
@@ -89,7 +90,7 @@ Le funzioni strumentali e gli editor del sito hanno **già** (PER ORA) a disposi
 *	pagina semplice
 *	cartella condivisa su g-suite 
 
-#### Pagina semplice
+### Pagina semplice
 
 
 **Menu principale
@@ -115,7 +116,7 @@ e aver fatto approvare (eventualmente) le pagine semplici create è necessario a
 
 ![testo alt](../images/stato_articolo_online.png "Online")
  
-#### Condivisione G Suite
+### Condivisione G Suite
 
 
 L'accesso alla cartella condivisa su g-suite (condivisione di file e cartelle specifici per funzione) che equivale alla voce Archivio Documenti sono accessibili via portale Cloud G Suite con account *marconiverona.edu.it*
@@ -128,7 +129,7 @@ I folder condivisi sono accessibili:
 *	in modifica ai proprietari della cartella (esempio cartella Supporto docenti) dopo aver fatto l'accesso tramite account marconiverona.edu.it
 
 
-#### Link g-suite presenti
+### Link g-suite presenti
  
  
 **Supporto docenti**
