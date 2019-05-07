@@ -97,6 +97,14 @@ Le pagine contengono testo ed eventualmente collegamenti altre pagine web, colle
 *	I collegamenti a file sono verso documenti condivisi su g-suite
 
 ![testo alt](../images/crea_pagina_semplice.png "Crea pagina semplice")
+
+Dopo aver "testato" la pagina in modalità Anteprima 
+
+![testo alt](../images/stato_articolo_anteprima.png "Anteprima")
+
+e aver fatto approvare (eventualmente) le pagine semplici create è necessario attivarne la visualizzazione modificando da Anteprima a Online lo stato dell'articolo
+
+![testo alt](../images/stato_articolo_online.png "Online")
  
 #### Condivisione G Suite
 
