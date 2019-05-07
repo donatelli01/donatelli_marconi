@@ -9,7 +9,7 @@
 *	Riscrittura contenuti (alcuni)
 *	Implementazione incrementale dei contenuti
 
-## TO Do Now (CONDIVISIONE)
+## To Do Now (CONDIVISIONE)
 
 *	Condivisione organizzazione homepage, menu e pagine
 *	Condividere organizzazione pagine per editor (funzioni strumentali, ...)
