@@ -12,4 +12,4 @@ Progetti:
 
 + [EDUS](https://github.com/marconivr/docs/tree/master/docs/EDUS)
 
-+ [Sito]/(https://github.com/marconivr/docs/tree/master/docs/EDUS)
++ [Sito](https://github.com/marconivr/docs/tree/master/docs/EDUS)
