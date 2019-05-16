@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024px" height="768px" viewBox="0 0 1024 768">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css?family=Pacifico); </style>
+</defs>
+<clipPath id="cp1">
+<path d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1280,0 L 1280,960 L 0,960 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp1)">
+</g>
+<rect x="0" y="0" width="1280" height="960" opacity="1" fill="#fff" stroke="none">
+</rect>
+<text x="-336.28125" y="19.377509759999995" style="font: normal 193.77509760000004px Pacifico" text-anchor="start" dy="76.59094766798421" opacity="1" fill="#38b3f6" stroke="none" transform="translate(496, 428)">Ambito1</text>
+<text x="-308.0208435058594" y="16.1479248" style="font: normal 161.479248px Pacifico" text-anchor="start" dy="63.82578972332017" opacity="1" fill="#e9c028" stroke="none" transform="translate(526, 588)">Didattica</text>
+<text x="-165.8541717529297" y="12.918339840000002" style="font: normal 129.18339840000002px Pacifico" text-anchor="start" dy="51.06063177865614" opacity="1" fill="#38b3f6" stroke="none" transform="translate(536, 278)">Prova</text>
+<text x="-124.39583587646484" y="9.688754879999998" style="font: normal 96.88754880000002px Pacifico" text-anchor="start" dy="38.295473833992105" opacity="1" fill="#4c0e27" stroke="none" transform="translate(462, 178)">Prova</text>
+<text x="-82.91666412353516" y="6.459169920000001" style="font: normal 64.59169920000001px Pacifico" text-anchor="start" dy="25.53031588932807" opacity="1" fill="#54bfa5" stroke="none" transform="translate(792, 526)">Prova</text>
+<text x="-77.82291412353516" y="6.459169920000001" style="font: normal 64.59169920000001px Pacifico" text-anchor="start" dy="25.53031588932807" opacity="1" fill="#222" stroke="none" transform="translate(392, 374)">Piano</text>
+<text x="-59.63541793823242" y="3.2295849600000004" style="font: normal 32.295849600000004px Pacifico" text-anchor="start" dy="12.765157944664034" opacity="1" fill="#545006" stroke="none" transform="translate(536, 246)">Marconi</text>
+<text x="-40.08333206176758" y="3.2295849600000004" style="font: normal 32.295849600000004px Pacifico" text-anchor="start" dy="12.765157944664034" opacity="1" fill="#222" stroke="none" transform="translate(582, 346)">Unità</text>
+</svg>
